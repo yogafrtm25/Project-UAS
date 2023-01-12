@@ -215,4 +215,5 @@ print("Menu yang anda maksud tidak tersedia, Silahkan pilih menu yang tersedia")
  
 Sekian dari saya Terima Kasih 
 Berikut adalah Link Tutorial dari Program Di Atas
-Link :   https://youtu.be/L288l3Z_XF4
+# Link :   https://youtu.be/L288l3Z_XF4
+# Dan ini adalah penjelasan berupa pdf : https://drive.google.com/file/d/1Mu274Q5SvzHDTpqXLhca5mg9UmlH1de_/view?usp=share_link 
